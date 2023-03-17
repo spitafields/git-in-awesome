@@ -1,1 +1,1 @@
-# git-in-awesome
+# git-is-awesome
